@@ -1,2 +1,2 @@
-echo '0 string SCHOOL' > school.mgc
-echo '>:0 string School data file' >> school.mgc
+0 string SCHOOL School data
+!:mime School
